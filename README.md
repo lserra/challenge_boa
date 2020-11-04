@@ -65,7 +65,7 @@ O modelo de dados pode ser encontrado na pasta: `/doc`. [deprecated]
 
 Esta informação está disponível no arquivo compartilhado [aqui](https://docs.google.com/presentation/d/1JjqCWYafxAh5RF5fwVPnWJyFFPNnlFRz-FXJQErQLjQ/edit?usp=sharing)
 
-Na pasta `./challenge_boa/data` estão disponíveis todos os arquivos CSV (source/target).
+Na pasta `/challenge_boa/data` estão disponíveis todos os arquivos CSV (source/target).
 
 Na pasta `/db` está disponível o banco de dados SQLite com as tabelas criadas a partir dos arquivos CSV (target).
 
@@ -81,7 +81,7 @@ Em função de alguns problemas técnicos não previstos a ideia era apresentar 
 
 - **Big Tables**: fazer algumas transformações nos dados e depois mover para esta camada lógica.
 
-- **DW**: fazer o enriquecimento nos dados e depois mover para esta comada lógica. (*Business Intelligence Self-Service*).
+- **DW**: fazer o enriquecimento nos dados e depois mover para esta camada lógica. (*Business Intelligence Self-Service*).
 
 Para esta solução seria usado o banco de dados: SQLite.
 
